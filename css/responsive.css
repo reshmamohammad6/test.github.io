@@ -1187,7 +1187,7 @@ nav.off__canvars--menu ul li {
   padding-right: 20px;
 } 
 .mean-container a.meanmenu-reveal {
-  margin-top: -59px;
+  margin-top: -69px;
 }    
 .header__top__area, .menumenu__container {
   padding-left: 0;
@@ -1209,6 +1209,7 @@ nav.off__canvars--menu ul li {
 .header__search a i ,
 .htc__shopping__cart a i {
   font-size: 16px;
+  padding-left: 100px;
 }
 .slider__inner h2 {
   line-height: 38px;
